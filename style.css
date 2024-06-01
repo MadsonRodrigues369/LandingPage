@@ -1,0 +1,139 @@
+*body{
+    background-color: #303030;
+}
+
+#cabeçalho{  
+    font-family: "inter";   
+    font-weight: 600;   
+    font-size: 70px;
+    line-height: 72px;
+    letter-spacing: -2.5%;
+    width: 1024;
+    height: 72px;
+    top: 206px;    
+    margin-bottom: 10px;
+    left: 0px;
+    line-height: 28pt;
+    color: #FFFFFF;
+}
+
+#textomenusuperior{
+    font: "inter";
+    font-weight: 500;
+    font-size: 25px;
+    height: 28px;
+    top: 298px;
+    width: 1024px;
+    left: 20px;
+    font-weight: 500;
+    line-height: 28px; 
+    color: #FFFFFF;
+
+}
+
+#menusuperior{
+    margin: 0px;  
+    padding: 80px;    
+    background-color: #303030;    
+}
+
+#menuinformacional{    
+    background: #EAECE5;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;  
+}
+
+.ícone{
+    margin: 50px;  
+    margin-left: 110px;    
+    margin-bottom: 50px;  
+    display: grid;     
+}
+
+#secaoimagem{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 10px;
+}
+
+#titulohistoria{
+    font-family: "inter";  
+    height: 100px;   
+    font-size: 25px;   
+    left: 77px;
+    margin-top: 200px; 
+    margin-bottom: 200px;     
+    padding: 50px;
+    size: 240px;
+   
+}
+
+#textohistoria{  
+    font-family: "inter";
+    font-weight: 300;
+    font-size: 25px;
+    left: 77px;
+    size: 24px;
+    line-height: 30px;
+    margin-top: 0px;
+    color: #000000;
+}
+
+#imagem{
+    margin: 50px 50px 50px 125px;
+    
+}
+
+#formulario{
+    text-align: center;
+    background-color: #303030;
+}
+
+#tituloformulario{
+    font: "inter";
+    font-size: 39px;     
+    color: #FFFFFF;
+}
+
+input{   
+    width: 508px;
+    height: 52px;
+    font-size: 24px;
+    top: 1661px;
+    left: 466px;
+    border-radius: 10px;
+    color: #000000;
+    padding-left: 15px;
+}
+
+button{
+    font-family: "Inter";
+    width: 286px;
+    height: 74px;
+    top: 1955px;
+    left: 577px;
+    font-size: 20px;    
+    border-radius: 10px;
+    margin-bottom: 35px;
+    background-color: #C07212;
+    cursor: pointer;
+}
+
+#botãofaleconosco{
+    font-family: "Inter";
+    font-weight: 600;
+    height: 50px;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF ;
+}
+ #caixaformulario{
+    color: #000000;
+}
+
+ button:hover{
+    transform: scale(1.2);
+    transition: all 0.5s;    
+  } 
