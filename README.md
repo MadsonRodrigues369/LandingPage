@@ -1,5 +1,5 @@
 # LandingPage
-Desenvolvimento de uma Landing Page desafio DNC
+Desenvolvimento de uma Landing Page!
 
 Link do site no Netlify:
 https://665b9fa8e7f811b94def4d1d--landingpagedesafiodnc.netlify.app/
